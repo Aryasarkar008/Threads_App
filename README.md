@@ -1,7 +1,7 @@
 
-# Threads Clone
+# Threads App
 
-This is a full stack Threads clone made with Mongo DB, Express Js, React Js & Node Js (MERN).
+This is a full stack Threads app made with Mongo DB, Express Js, React Js & Node Js (MERN).
 
 
 
