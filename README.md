@@ -8,7 +8,7 @@ This is a full stack Threads app made with Mongo DB, Express Js, React Js & Node
 
 ## Demo
 
-Insert gif or link to demo
+https://www.linkedin.com/feed/update/urn:li:activity:7143299299903176706/
 
 
 ## Features
